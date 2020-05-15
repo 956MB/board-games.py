@@ -1,0 +1,3 @@
+[submodule "connect-four.py"]
+	path = connect-four.py
+	url = https://github.com/Bloumbs/connect-four.py.git
