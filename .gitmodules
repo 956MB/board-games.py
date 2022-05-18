@@ -1,6 +1,9 @@
 [submodule "connect-four.py"]
 	path = connect-four.py
-	url = https://github.com/Bloumbs/connect-four.py.git
+	url = https://github.com/956MB/connect-four.py.git
 [submodule "checkers.py"]
 	path = checkers.py
-	url = https://github.com/Bloumbs/checkers.py.git
+	url = https://github.com/956MB/checkers.py.git
+[submodule "chess.py"]
+	path = chess.py
+	url = https://github.com/956MB/chess.py.git
