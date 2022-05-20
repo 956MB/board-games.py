@@ -7,3 +7,6 @@
 [submodule "chess.py"]
 	path = chess.py
 	url = https://github.com/956MB/chess.py.git
+[submodule "go.py"]
+	path = go.py
+	url = https://github.com/956MB/go.py.git
