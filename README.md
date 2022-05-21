@@ -4,7 +4,7 @@ Collection of terminal based board games written in Python. I started this proje
 
 ## [go.py](https://github.com/956MB/go.py)
 
-<img width="544" src="https://i.imgur.com/1DtvmOh.png">
+<img width="544" src="https://i.imgur.com/PDTYwTg.png">
 
 ## [chess.py](https://github.com/956MB/chess.py)
 
